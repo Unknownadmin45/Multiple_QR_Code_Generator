@@ -25,7 +25,7 @@ The *Multiple QR Code Generator* is a web application designed to generate QR co
 #### *Installation Instructions*  
 1. Clone the repository:  
    bash
-   git clone <repository-url>
+   git clone https://github.com/Unknownadmin45/Multiple_QR_Code_Generator
      
 2. Install and start XAMPP (Apache and MySQL).  
 3. Import the provided SQL file into *phpMyAdmin* to create the database.  
